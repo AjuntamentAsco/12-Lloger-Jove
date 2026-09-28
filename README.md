@@ -38,7 +38,16 @@ https://habitatge.gencat.cat/ca/ambits/Preus-ingressos-i-zones/taules-dingressos
 
 6. No són objecte de l’ajut aquells habitatges en que l’Ajuntament hagi iniciat expedient de ruïna.
 
-7. No tenir relació de parentiu amb el propietari/a de l’habitatge fins al quart grau de consanguinitat o afinitat inclosos.
+7. No tenir relació de parentiu amb el propietari/a de l’habitatge fins al segon grau de consanguinitat o afinitat inclosos.
+
+   A efectes de comprovar el compliment d’aquest requisit, l’Ajuntament podrà requerir a les persones sol·licitants la documentació que consideri necessària per acreditar la inexistència de la relació de parentiu declarada amb la persona propietària de l’habitatge. A aquests efectes, es podrà requerir, entre d’altra documentació que resulti procedent:
+
+   - DNI o NIE de les persones implicades.
+   - Certificats del Registre Civil que acreditin les relacions de parentiu, inclosos, si escau, certificats de naixement, matrimoni o altres certificacions que siguin necessàries.
+   - Certificat o volant de convivència.
+   - Llibre de família o documentació equivalent.
+
+   Aquesta documentació podrà ser requerida tant en el moment de la tramitació de la sol·licitud com durant les actuacions de comprovació i control que, si escau, es duguin a terme.
 
 8. Tenir una edat compresa entre els 18 als 35 anys o formar part del col·lectiu vulnerable descrit a la base segona del present document.
 
@@ -80,11 +89,29 @@ Es podrà sol·licitar la subvenció des de la publicació de l’aprovació def
 
 	- Declaració jurada de no sotsarrendar ni cedir, sota qualsevol títol, cap peça de l’habitatge objecte de l’ajut al lloguer, durant el termini de l’ajut.
 
-	- Declaració jurada de no tenir una relació de parentiu amb el propietari/a de l’habitatge fins al quart grau de consanguinitat o afinitat inclosos.
+	- Declaració jurada de no tenir una relació de parentiu amb el propietari/a de l’habitatge fins al segon grau de consanguinitat o afinitat inclosos.
 
 	- Fotocòpia del contracte de lloguer de l’habitatge redactat de conformitat amb la legislació vigent i on consti la persona sol·licitant com a arrendatària, per l’ajut al lloguer.
 
 	- Cèdula d’habitabilitat i certificat energètic.
+
+   - Aportar els justificants de pagament de la renta del lloguer a favor del propietari/a de l´habitatge.
+
+   Els justificants de pagament hauran de correspondre als pagaments periòdics de la renda del lloguer i permetre acreditar de manera suficient l’efectiu pagament de la renda. A aquests efectes, es podran admetre, entre d’altres, els següents documents:
+
+   - Resguard o justificant de transferència bancària.
+   - Extracte bancari on consti el càrrec corresponent al pagament del lloguer.
+   - Rebut domiciliat.
+   - Justificant de pagament mitjançant Bizum, sempre que permeti identificar suficientment l’operació.
+   - Rebut emès per l’administrador/a de la finca o per la persona propietària de l’habitatge, quan aquest sigui un mitjà de pagament admès i permeti acreditar suficientment el pagament.
+
+   En tot cas, el justificant aportat haurà de permetre identificar, com a mínim:
+
+   - La persona que efectua el pagament.
+   - La persona que rep el pagament.
+   - L’import satisfet.
+   - La data del pagament.
+   - El concepte del pagament: el mes o període de lloguer al qual correspon.
 
 2. La presentació de la sol·licitud implica l’acceptació plena de les bases reguladores de la subvenció.
 
